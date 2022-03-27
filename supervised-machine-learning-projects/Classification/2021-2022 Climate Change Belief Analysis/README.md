@@ -1,4 +1,4 @@
-### Climate Change Believe Analysis Overview
+### Climate Change Believe Analysis Objective
 
 Creating a Machine Learning model that is able to classify whether or not a person believes in climate change, based on their novel tweet data.
 
@@ -27,7 +27,7 @@ Each tweet is labelled as one of the following classes:
 
 ---
 
-### Columns
+### Features
 
 • `sentiment`: Sentiment of tweet i.e 0, 1, etc
 
