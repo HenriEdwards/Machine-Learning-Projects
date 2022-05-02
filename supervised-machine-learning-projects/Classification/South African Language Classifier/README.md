@@ -54,3 +54,5 @@ The data is in the form Language ID, Text. The text is in various states of clea
 • xho - isiXhosa
 
 • zul - isiZulu
+
+![SA Languages](resources/imgs/South_African_languages.jpg)
