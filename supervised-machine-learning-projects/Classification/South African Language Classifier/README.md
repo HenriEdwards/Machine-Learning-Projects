@@ -55,4 +55,4 @@ The data is in the form Language ID, Text. The text is in various states of clea
 
 • zul - isiZulu
 
-![SA Languages](resources/imgs/South_African_languages.jpg)
+![South_African_languages](resources/imgs/South_African_languages.jpg)
